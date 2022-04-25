@@ -1,7 +1,7 @@
 clear
 clc
 close all
-addpath('C:\Users\ore\OneDrive\Documents\VibroLab\HHIM\HIM with handarm system\MATLAB scripts')
+
 %% Obtaining last vector in time series to use as initial condition for code to obtain Lyapunov exponents
 % Obtaining system parameters
 w=700;
