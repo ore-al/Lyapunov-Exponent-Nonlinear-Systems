@@ -2,7 +2,7 @@
 % the method proposed by Wolf et al. 
 % Wolf, Alan, et al. "Determining Lyapunov exponents from a time series." Physica D: nonlinear phenomena 16.3 (1985): 285-317.
 
-%% Obtaining Lyapunov exponents for Nonlinear "HIM-HAS-ABS" system using ODE45
+%% Obtaining Lyapunov exponents for Nonlinear system using ODE45
 clear
 clc
 close all
