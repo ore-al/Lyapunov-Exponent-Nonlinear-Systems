@@ -1,4 +1,4 @@
-% These script calculates Lyapunoc exponents in a nonlinear system using
+% These script calculates Lyapunov exponents in a nonlinear system using
 % the method proposed by Wolf et al. 
 % Wolf, Alan, et al. "Determining Lyapunov exponents from a time series." Physica D: nonlinear phenomena 16.3 (1985): 285-317.
 
