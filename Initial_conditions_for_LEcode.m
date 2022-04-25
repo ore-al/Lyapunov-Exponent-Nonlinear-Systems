@@ -21,7 +21,7 @@ f=length(om);
 xo= [0 0 0 0 0 0 0]';
 opts = odeset('RelTol',1e-7,'AbsTol',1e-7); 
 
-%% Finding and storing steadstate displacement for different variations of nonlinear system 
+%% Finding and storing steady-state displacement for different variations of nonlinear system 
 for mm=1:f
 for j=1:s
     
